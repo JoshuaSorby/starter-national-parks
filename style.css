@@ -105,6 +105,12 @@ main {
   color: rgba(255, 255, 255, 0.5);
 }
 
+.sorter {
+  width: 90%;
+  margin: 0 auto;
+  padding: 6px;
+}
+
 @media screen and (min-width: 600px) {
   main {
     grid-template-columns: repeat(2, 1fr);
